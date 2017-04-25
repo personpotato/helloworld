@@ -1,2 +1,2 @@
 console.log('Starting.... Hello World!')
-require('app.js')
+require('./app.js')
